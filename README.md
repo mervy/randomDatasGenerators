@@ -29,3 +29,9 @@ Abaixo uma configuração para dados de um blog
 ]
 
 https://stackoverflow.com/questions/20633310/how-to-get-random-text-from-lorem-ipsum-in-php
+
+# Sites para gerar dados
+https://www.fotor.com/features/ai-image-generator/
+https://www.fotor.com/blog/best-ai-random-face-generators/https://github.com/topics/random-data-generation
+https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
+
