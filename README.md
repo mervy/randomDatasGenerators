@@ -35,7 +35,8 @@ Abaixo uma configuração para dados de um blog nesse último site
 </code></pre>
 
 # Sites para gerar dados
-- https://www.fotor.com/features/ai-image-generator/
-- https://www.fotor.com/blog/best-ai-random-face-generators/
-- https://github.com/topics/random-data-generation
-- https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
+- https://fakestoreapi.com/
+- https://mockturtle.net/
+- https://pravatar.cc/ 
+- https://loremfaces.com/
+- https://picsum.photos/- 
