@@ -1,9 +1,13 @@
 # randomDatasGenerators
 Sites para gerar dados randômicos
 
-https://json-generator.com/
+- https://generatedata.com/
+- https://www.mockaroo.com/
+- http://www.randat.com/
+- https://tableconvert.com/json-to-sql
+- https://json-generator.com/
 
-Abaixo uma configuração para dados de um blog
+Abaixo uma configuração para dados de um blog nesse último site
 <pre><code>
 [
   '{{repeat(300, 7)}}',
@@ -30,11 +34,8 @@ Abaixo uma configuração para dados de um blog
 ]
 </code></pre>
 
-https://stackoverflow.com/questions/20633310/how-to-get-random-text-from-lorem-ipsum-in-php
-
 # Sites para gerar dados
 - https://www.fotor.com/features/ai-image-generator/
 - https://www.fotor.com/blog/best-ai-random-face-generators/
 - https://github.com/topics/random-data-generation
 - https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
-
