@@ -39,4 +39,4 @@ Abaixo uma configuração para dados de um blog nesse último site
 - https://mockturtle.net/
 - https://pravatar.cc/ 
 - https://loremfaces.com/
-- https://picsum.photos/- 
+- https://picsum.photos
